@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Albin Aji</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
-<img width="400" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" />
+<img src="https://redblink.com/wp-content/uploads/2019/07/1-OF0xEMkWBv-69zvmNs6RDQ.gif"/>
 
 
 - 👨‍💻 More about me [www.albinaji.site](www.albinaji.site)
